@@ -1,3 +1,8 @@
+NextJS, TailWindCSS, and MongoDB
+
+![Screen Shot 2022-06-09 at 1 59 15 PM](https://user-images.githubusercontent.com/92414210/172943929-c665d753-df41-42cf-b0c8-b50a7b369a2e.png)
+
+
 For further reference, check out this written guide: https://www.section.io/engineering-education/build-nextjs-with-mongodb-and-deploy-on-vercel/
 
 Here is a sample of my deployed application to Vercel :  https://nextjs-mongo-finalized.vercel.app/
