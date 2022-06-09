@@ -1,6 +1,7 @@
 NextJS, TailWindCSS, and MongoDB
 
-![Screen Shot 2022-06-09 at 1 59 15 PM](https://user-images.githubusercontent.com/92414210/172943929-c665d753-df41-42cf-b0c8-b50a7b369a2e.png)
+![Screen Shot 2022-06-09 at 2 14 36 PM](https://user-images.githubusercontent.com/92414210/172945728-6a31c417-e0bf-4543-8f82-c27da8a8fbe5.png)
+
 
 
 For further reference, check out this written guide: https://www.section.io/engineering-education/build-nextjs-with-mongodb-and-deploy-on-vercel/
